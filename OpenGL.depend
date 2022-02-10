@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1473622152 source:e:\atlami\level-4 term-2\zlab graphics\setup opengl\opengl\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\atlami\level-4 term-2\zlab graphics\setup opengl\opengl\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1474034355 source:e:\atlami\level-4 term-2\zlab graphics\my offlines\5_wheel\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\atlami\level-4 term-2\zlab graphics\my offlines\5_wheel\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1474030756 source:d:\undergrad backup\atlami\level-4 term-2\zlab graphics\assignment 1\my offlines\5_wheel\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\undergrad backup\atlami\level-4 term-2\zlab graphics\assignment 1\my offlines\5_wheel\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
